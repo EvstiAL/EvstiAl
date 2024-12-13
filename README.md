@@ -9,9 +9,6 @@
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=EvstiAl&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
 <!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EvstiAl&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
-  </div>
 
 <div align="center">
 <br>
