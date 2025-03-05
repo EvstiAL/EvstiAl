@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Всем+шалом+я+EvstiAl)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+I'm+EvstiAl)](https://git.io/typing-svg)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/EvstiAl)](https://badges.pufler.dev)
+![STATIC](https://img.shields.io/badge/GOIDA-yes-gre
 
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Stats </h2></summary>
