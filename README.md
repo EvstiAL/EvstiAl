@@ -7,12 +7,18 @@
 
 <div align="center">
 <br>
-****- 🔭 I’m currently working on GoidaToolBox and InventoryAIS
+🔭 I’m currently working on GoidaToolBox and InventoryAIS
+  <br>
 - 🌱 I’m currently teaching in Tver Konyaev College
+  <br>
 - 💬 Ask me about how to quickly bring down the network
+  <br>+
 - 📫 How to reach me: @EvstiAl
+  <br>
 - 😄 Pronouns: Goida
-- ⚡ Fun fact: If it works, don't touch it****
+  <br>
+- ⚡ Fun fact: If it works, don't touch it
+   <br>
 </div>
 <br>
 </details>
