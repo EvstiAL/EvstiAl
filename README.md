@@ -13,15 +13,15 @@
 
 <div align="center">
 <br>
-
+****- 🔭 I’m currently working on GoidaToolBox and InventoryAIS
+- 🌱 I’m currently teaching in Tver Konyaev College
+- 💬 Ask me about how to quickly bring down the network
+- 📫 How to reach me: @EvstiAl
+- 😄 Pronouns: Goida
+- ⚡ Fun fact: If it works, don't touch it****
 </div>
 <br>
 </details>
 
 
-**- 🔭 I’m currently working on GoidaToolBox and InventoryAIS
-- 🌱 I’m currently learning in Tver Konyaev College
-- 💬 Ask me about how to quickly bring down the network
-- 📫 How to reach me: @EvstiAl
-- 😄 Pronouns: Goida
-- ⚡ Fun fact: If it works, don't touch it**
+
